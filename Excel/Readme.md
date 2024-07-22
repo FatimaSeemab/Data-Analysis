@@ -1,8 +1,3 @@
-Excel Detailed Project(Dashboard):
-For detailed project, we have bike sales dataset. We are analyzing purchases per age range, average income of 
-purchases and purchases per commute distance. Furthur, we added slicers to see gender distribution, education and 
-marital distribution to see affects of these on above charts.
-
 # My Experience and Expertise in Excel
 
 This folder showcases my experience and expertise in Excel through various projects. These projects have helped me develop skills in data cleaning, data visualization, and creating detailed dashboards.
